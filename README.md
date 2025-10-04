@@ -1,9 +1,8 @@
+# AI Daily Outfit Recommender
 
-Built by https://www.blackbox.ai
+Built by [https://www.blackbox.ai](https://www.blackbox.ai)
 
 ---
-
-# AI Daily Outfit Recommender
 
 ## Project Overview
 
@@ -39,7 +38,7 @@ To set up the project locally, follow these steps:
    The server will run on [http://localhost:3000](http://localhost:3000).
 
 4. **Open your browser:**
-   
+
    Navigate to [http://localhost:3000](http://localhost:3000) to access the application.
 
 ## Usage
@@ -67,7 +66,7 @@ This project uses the following dependencies as listed in the `package.json`:
 
 Here's a breakdown of the project structure:
 
-```
+```text
 ai-daily-outfit-recommender/
 ├── package.json         # Project metadata and dependencies
 ├── package-lock.json    # Lock file for exact dependency versions
@@ -85,7 +84,7 @@ This is the frontend interface, where users can upload their clothes and set the
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
 
 ---
 
